@@ -13,7 +13,7 @@
 - [x] 4. Criar um projeto nextjs
 - [x] 5. Importar bibliotecas e lançar aplicação web
 - [x] 6. Montar uma página de pesquisa de produtos
-- [ ] 7. Publicar o resultado no Github
+- [x] 7. Publicar o resultado no Github
 
 ---
 
